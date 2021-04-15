@@ -17,7 +17,7 @@ namespace Microsoft.BotBuilderSamples.Bots
         protected readonly Microsoft.Bot.Builder.Dialogs.Dialog Dialog;
         protected readonly BotState UserState;
 
-        private const string WelcomeMessage = "Hola test ¿Cómo podemos apoyarte?\r\n" +
+        private const string WelcomeMessage = "Hola test hhhhh¿Cómo podemos apoyarte?\r\n" +
                                               "Tengo estas opciones,elige la más " +
                                                 "cercana a tus dudas.\r\n" +
                                                 "1.- ¿Que puedo empeñar?\r\n" +
